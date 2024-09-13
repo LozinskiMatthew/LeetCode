@@ -5,3 +5,5 @@ Underneath you may see, challenges from LeetCode, done by marked as solved optim
 20_Valid_parentheses -> solved, optimal
 32_Longest_valid_parentheses -> solved, suboptimal
 2_Add_two_numbers -> solved, optimal
+
+Soon I shall add new changes to the structures of this .txt, but currently I'd rather stay on the verge of relying on data within structures of this repo.
